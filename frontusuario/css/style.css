@@ -1,0 +1,62 @@
+/* folha de estilo para tela de cadastro
+@author Nicolas de Paula */
+
+input, button {
+    margin-top: 5px !important;
+    margin-bottom: 5px !important;
+}
+.imglogin {
+    width: 100%;
+}
+.fotouser {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin-left: 10px;
+    margin-top: 5px;
+
+}
+p {
+    margin-top: 15px;
+}
+h2 {
+    text-align: center;
+
+}
+/* .conteudo {
+    display: Flex;
+    border-radius: 40px;
+    justify-content: space-evenly;
+    
+} */
+.card {
+    border: 0px !important  ;
+}
+.tamanho {
+    height: 390px;
+}
+.conteudo {
+    justify-content:center ;
+}
+.precoatual  {
+    font-size: 2em;
+    font-weight: 500;
+    padding: 10px;
+    text-shadow: #000 0.01em;
+    text-decoration: underline;
+    text-align: center;
+    
+}
+.fotos {
+    display: flex;
+    margin-left: 20px;
+}
+.fotos img {
+    margin: 10px 10px 10px 10px;
+    box-shadow: #000;
+    border-radius: 5px;
+    
+    
+}
+
+
